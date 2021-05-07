@@ -1,4 +1,4 @@
-### Olá, pessoal! 👋
+### Hello! 👋
 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript
